@@ -18,7 +18,7 @@ Welcome! I'm really glad that you're here. Below you'll find all of the resource
 ## Articles
 
 - [Demystifying Public Speaking](https://alistapart.com/article/demystifying-public-speaking/)
-- [Speaking.io](https://alistapart.com/article/demystifying-public-speaking/)
+- [Speaking.io](https://speaking.io)
 
 ### Whiteboard Tools & Drawing Resources
 
