@@ -7,7 +7,7 @@ Welcome! I'm really glad that you're here. Below you'll find all of the resource
 - **Eve Porcello**: [Twitter](https://twitter.com/eveporcello) | [Email](mailto:eve@moonhighway.com)
 - **Moon Highway Training**: [Moon Highway Website](https://www.moonhighway.com) | [Mailing List](http://bit.ly/moonhighway) | [Articles](https://www.moonhighway.com/articles)
 
-### Resources
+### Course Resources
 
 - [Slides](https://slides.com/moonhighway/public-speaking/)
 - [VSCode Teaching Settings](https://github.com/eveporcello/teaching-remote-workshops/blob/master/vscode-settings.json)
@@ -15,11 +15,14 @@ Welcome! I'm really glad that you're here. Below you'll find all of the resource
 - [Screencast Workshop](https://egghead.io/courses/record-badass-screencasts-for-egghead-io)
 - [Headline Generator](https://sumo.com/kickass-headline-generator/)
 
+## Articles
+
+- [Demystifying Public Speaking](https://alistapart.com/article/demystifying-public-speaking/)
+- [Speaking.io](https://alistapart.com/article/demystifying-public-speaking/)
+
 ### Whiteboard Tools & Drawing Resources
 
 - [Explain Everything](https://explaineverything.com/online-whiteboard/)
 - [Ziteboard](https://ziteboard.com/)
 - [Adobe Photoshop Sketch](https://apps.apple.com/us/app/adobe-photoshop-sketch/id839085644)
 - [Procreate](https://procreate.art/)
-- [MaggieAppleton.com](https://maggieappleton.com/)
-- [Sketching & Logo Creation Show](https://www.youtube.com/watch?v=4mrrNAjiTvk)
