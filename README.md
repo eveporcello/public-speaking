@@ -1,4 +1,4 @@
-# Public Speaking for Developers
+# Public Speaking for Developers 👩🏻‍🏫
 
 Welcome! I'm really glad that you're here. Below you'll find all of the resources that we'll use throughout this course. If you're looking for slides, samples, links, etc., this is the place to look.
 
